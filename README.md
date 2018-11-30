@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/team-cortland/Bananas/_apis/build/status/paulcsilver.pipelines-java)](https://dev.azure.com/team-cortland/Bananas/_build/latest?definitionId=2)
 
 # Contributing
 
